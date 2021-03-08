@@ -4,10 +4,10 @@ export const TopHeader = () => {
   return (
     <div>
       <nav>
-        <a href="">home</a>
-        <a href="">about me</a>
-        <a href="">contact me</a>
-        <a href="">log in</a>
+        <a href="">Home</a>
+        <a href="">About me</a>
+        <a href="">View Profile</a>
+        <a href="">Log in</a>
       </nav>
     </div>
   )
