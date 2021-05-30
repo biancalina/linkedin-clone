@@ -3,7 +3,8 @@ import './Header.css';
 
 function header() {
     return (
-        <div className='header'>            
+        <div className='header'>        
+        <h1>linkedin clone</h1>    
         </div>
     )
 }
