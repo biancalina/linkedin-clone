@@ -7,6 +7,7 @@ function App() {
         <div className="app">
             <h1>Home</h1>
             <h2>My Network</h2>
+            <h3>Connections</h3>
             <Header />
         </div>
     );
